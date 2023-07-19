@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+  }
+
+  #clock {
+    font-size: 250px;
+    margin-top: 100px;
+    color: #6A5ACD;
+  }
+  .rodape{
+    color: aliceblue;
+    border: 2px solid #6A5ACD;
+    border-radius: 8px;
+    margin: 80px 600px;
+
+  }
+#dataAtual {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #6A5ACD;
+  }
